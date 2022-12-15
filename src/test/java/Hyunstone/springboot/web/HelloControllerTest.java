@@ -1,6 +1,4 @@
-package Hyunstone.springboot;
-
-import Hyunstone.springboot.web.HelloController;
+package Hyunstone.springboot.web;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
