@@ -1,3 +1,17 @@
+## .gitignore는 프로젝트 최상단 디렉토리에 위치해야 합니다
+
+### Java template
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
 ## ignore 목록
 .gradle
 build/
