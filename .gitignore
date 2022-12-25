@@ -1,9 +1,12 @@
+## ignore 목록
 .gradle
 build/
 /bin
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
+
+application-oauth.properties
 
 ### STS ###
 .apt_generated
